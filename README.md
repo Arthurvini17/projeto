@@ -1,1 +1,4 @@
 # projeto
+
+*comando git push
+
